@@ -1,25 +1,25 @@
 
 
 public class Variable{
-         public static void main(String[]args){
+    public static void main(String[] args){
 
-        byte b=127;
-        short st=12419;
-        char ch='A';
-        int integer=24;
-        long lg=124124L;
-        float fl=12.345949f;
-        double dl=4323.45345;
-        boolean bool=true;
+        byte adapter = 127;
+        short seria = 12419;
+        char model = 'A';
+        int ethPorts = 2;
+        long register = 124124L;
+        float proc = 12.345949f;
+        double capacity = 4323.45345;
+        boolean sd = true;
 
-        System.out.println(b);
-        System.out.println(st);
-        System.out.println(ch);
+        System.out.println(adapter);
+        System.out.println(seria);
+        System.out.println(model);
         System.out.println(integer);
-        System.out.println(lg);
-        System.out.println(fl);
-        System.out.println(dl);
-        System.out.println(bool);
+        System.out.println(ethPorts);
+        System.out.println(register);
+        System.out.println(capacity);
+        System.out.println(sd);
 
-        }
+    }
 }
